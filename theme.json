@@ -1,0 +1,16 @@
+{
+    "name": "Catppuccin Mocha Pink",
+    "description": "A Catppuccin Mocha theme with pink accents",
+    "authors": [
+        {
+            "name": "brie28",
+            "id": "416256517348524043"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_BASE_LOW": [
+            "#1e1e2e"
+        ]
+    },
+    "spec": 2
+}
