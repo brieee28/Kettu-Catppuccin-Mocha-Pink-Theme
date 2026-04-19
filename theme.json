@@ -13,7 +13,15 @@
         "BRAND_260":"#f5c2e7",
         "BRAND_360":"#f5c2e7",
         "BRAND_500":"#f5c2e7",
-        "BRAND_560":"#181825"
+        "BRAND_560":"#181825",
+        "GREEN_360":"#a6e3a1",
+        "GREEN_430":"#a6e3a1",
+        "GREEN_460":"#a6e3a1",
+        "PLUM_1":"#cdd6f4",
+        "PLUM_3":"#a6adc8",
+        "PLUM_6":"#a6adc8",
+        "PLUM_9":"#a6adc8",
+        "PLUM_10":"#45475a"
     },
     "spec": 2
 }
