@@ -7,37 +7,8 @@
             "id": "416256517348524043"
         }
     ],
-    "semanticColors": {
-        "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-            "#313244"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#f5c2e7"
-        ],
-        "BACKGROUND_BASE_LOW": [
-            "#1e1e2e"
-        ],
-        "BACKGROUND_BASE_LOWER": [
-            "#1e1e2e"
-        ],
-        "BACKGROUND_BASE_LOWEST": [
-            "#11111b"
-        ],
-        "BACKGROUND_BRAND": [
-            "#f5c2e7"
-        ],
-        "BACKGROUND_MOD_MUTED": [
-            "#313244"
-        ],
-        "BACKGROUND_MOD_STRONG": [
-            "#313244"
-        ],
-        "BACKGROUND_SCRIM": [
-            "#181825"
-        ],
-        "BACKGROUND_SURFACE_HIGH": [
-            "#313244"
-        ]
+    "rawColors": {
+        "BLACK_500":"#11111b"
     },
     "spec": 2
 }
