@@ -21,6 +21,18 @@
             "#1e1e2e"
         ],
         "BACKGROUND_BASE_LOWEST": [
+            "#11111b"
+        ],
+        "BACKGROUND_BRAND": [
+            "#f5c2e7"
+        ],
+        "BACKGROUND_MOD_MUTED": [
+            "#313244"
+        ],
+        "BACKGROUND_MOD_STRONG": [
+            "#313244"
+        ],
+        "BACKGROUND_SCRIM": [
             "#181825"
         ]
     },
