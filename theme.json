@@ -8,7 +8,12 @@
         }
     ],
     "rawColors": {
-        "BLACK_500":"#11111b"
+        "BLACK_500":"#11111b",
+        "BLUE_345":"#89b4fa",
+        "BRAND_260":"#f5c2e7",
+        "BRAND_360":"#f5c2e7",
+        "BRAND_500":"#f5c2e7",
+        "BRAND_560":"#181825"
     },
     "spec": 2
 }
