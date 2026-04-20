@@ -7,6 +7,23 @@
             "id": "416256517348524043"
         }
     ],
+    "semanticColors": {
+        "BACKGROUND_ACCENT": [
+            "#f5c2e7"
+        ],
+        "BACKGROUND_BRAND": [
+            "#f5c2e7"
+        ],
+        "BACKGROUND_MOD_STRONG": [
+            "#313244"
+        ],
+        "BACKGROUND_SURFACE_HIGH": [
+            "#313244"
+        ],
+        "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+            "#302d3e"
+        ]
+    },
     "rawColors": {
         "BLACK_500":"#11111b",
         "BLUE_345":"#89b4fa",
@@ -16,7 +33,7 @@
         "BRAND_560":"#181825",
         "GREEN_360":"#a6e3a1",
         "GREEN_430":"#a6e3a1",
-        "GREEN_460":"#a6e3a1",
+        "GREEN_460":"#94e2d5",
         "PLUM_1":"#cdd6f4",
         "PLUM_3":"#cdd6f4",
         "PLUM_6":"#a6adc8",
@@ -37,7 +54,12 @@
         "PRIMARY_300":"#cdd6f4",
         "PRIMARY_400":"#7f849c",
         "PRIMARY_500":"#f5c2e7",
-        "PRIMARY_660":"#313244"
+        "PRIMARY_660":"#1e1e2e",
+        "PRIMARY_700":"#313244",
+        "PRIMARY_800":"#181825",
+        "RED_400":"#f38ba8",
+        "RED_430":"#f38ba8",
+        "RED_460":"#eba0ac"
     },
     "spec": 2
 }
