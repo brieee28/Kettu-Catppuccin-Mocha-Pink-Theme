@@ -22,6 +22,15 @@
         ],
         "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
             "#493e52"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+            "#cba6f7"
+        ],
+        "TEXT_LINK": [
+            "#89b4fa"
+        ],
+        "TEXT_STATUS_DND": [
+            "#f38ba8"
         ]
     },
     "rawColors": {
