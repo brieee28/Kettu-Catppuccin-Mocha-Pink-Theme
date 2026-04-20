@@ -74,6 +74,21 @@
         ],
         "REACTION_BORDER_REACTED_DEFAULT": [
             "#f5c2e7"
+        ],
+        "ICON_STATUS_DND": [
+            "#f38ba8"
+        ],
+        "ICON_STATUS_IDLE": [
+            "#f9e2af"
+        ],
+        "ICON_STATUS_ONLINE": [
+            "#a6e3a1"
+        ],
+        "TEXT_STATUS_IDLE": [
+            "#f9e2af"
+        ],
+        "TEXT_STATUS_ONLINE": [
+            "#a6e3a1"
         ]
     },
     "spec": 2
