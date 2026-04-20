@@ -95,6 +95,9 @@
         ],
         "MOBILE_UNREADBAR_TEXT_DEFAULT": [
             "#181825"
+        ],
+        "CONTROL_PRIMARY_TEXT_DEFAULT": [
+            "#181825"
         ]
     },
     "spec": 2
