@@ -89,6 +89,9 @@
         ],
         "TEXT_STATUS_ONLINE": [
             "#a6e3a1"
+        ],
+        "SWITCH_THUMB_BACKGROUND_SELECTED_DEFAULT": [
+            "#181825"
         ]
     },
     "spec": 2
