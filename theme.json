@@ -7,38 +7,6 @@
             "id": "416256517348524043"
         }
     ],
-    "semanticColors": {
-        "BACKGROUND_ACCENT": [
-            "#f5c2e7"
-        ],
-        "BACKGROUND_BRAND": [
-            "#f5c2e7"
-        ],
-        "BACKGROUND_MOD_STRONG": [
-            "#313244"
-        ],
-        "BACKGROUND_SURFACE_HIGH": [
-            "#313244"
-        ],
-        "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
-            "#302d3e"
-        ],
-        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
-            "#cba6f7"
-        ],
-        "TEXT_LINK": [
-            "#89b4fa"
-        ],
-        "TEXT_STATUS_DND": [
-            "#f38ba8"
-        ],
-        "BUTTON_OUTLINE_PRIMARY_TEXT": [
-            "#181825"
-        ],
-        "REACTION_BORDER_REACTED_DEFAULT": [
-            "#f5c2e7"
-        ]
-    },
     "rawColors": {
         "BLACK_500":"#11111b",
         "BLUE_345":"#89b4fa",
@@ -75,6 +43,38 @@
         "RED_400":"#f38ba8",
         "RED_430":"#f38ba8",
         "RED_460":"#eba0ac"
+    },
+    "semanticColors": {
+        "BACKGROUND_ACCENT": [
+            "#f5c2e7"
+        ],
+        "BACKGROUND_BRAND": [
+            "#f5c2e7"
+        ],
+        "BACKGROUND_MOD_STRONG": [
+            "#313244"
+        ],
+        "BACKGROUND_SURFACE_HIGH": [
+            "#313244"
+        ],
+        "MESSAGE_MENTIONED_BACKGROUND_DEFAULT": [
+            "#302d3e"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+            "#cba6f7"
+        ],
+        "TEXT_LINK": [
+            "#89b4fa"
+        ],
+        "TEXT_STATUS_DND": [
+            "#f38ba8"
+        ],
+        "BUTTON_OUTLINE_PRIMARY_TEXT": [
+            "#181825"
+        ],
+        "REACTION_BORDER_REACTED_DEFAULT": [
+            "#f5c2e7"
+        ]
     },
     "spec": 2
 }
