@@ -92,6 +92,9 @@
         ],
         "SWITCH_THUMB_BACKGROUND_SELECTED_DEFAULT": [
             "#181825"
+        ],
+        "MOBILE_UNREADBAR_TEXT_DEFAULT": [
+            "#181825"
         ]
     },
     "spec": 2
